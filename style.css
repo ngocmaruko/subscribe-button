@@ -1,0 +1,16 @@
+.subscribe{
+  background-color:blueviolet;
+  border: white;
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+  transition: 2s;
+  
+}
+.subscribed{
+  background-color:coral;
+  border: white;
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+}
